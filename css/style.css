@@ -10,6 +10,7 @@ main {
     align-items: center;
     justify-content: center;
     width: 21.4rem;
+    height: 100%;
     margin: auto;
 }
 
